@@ -1,0 +1,47 @@
+<html>
+<head>
+	<title>Praktikum mod 1</title>
+</head>
+<body>
+  <div class = "box">
+    
+	  <form method="Post">
+	  <table border= 0 width="30%">
+
+<p> <b>Formulir Pendaftaran Praktikan </p>
+<form action=”” method=”POST”>
+<table border="0" width="120">
+
+   <tr>
+    <tr><b>Prodi :</tr></br>
+	 <tr>
+     <div> 1.
+       <input type="radio" name="pilih" ckecked>IF</br>
+	    <div> 2.
+        <input type="radio" name="pilih">SE</br>
+      <div> 3.
+      <input type="radio" name="pilih" ckecked>IF</br>
+  </p>
+</tr>
+
+<tr>  
+      <tr><b>Developer Type :</tr></br>
+	 <tr>
+     <div> 1. Frontend
+	    <input type="checkbox"> <br>
+     <div> 2. Backend
+		<input type="checkbox"> <br>
+	 </tr>
+</tr>
+
+	<tr align="center">
+	<td colspan="4">
+		 
+<a href="tabel.html"><input type="button" value="Clear"></a>
+	 </td>
+	</tr>
+	
+</table>
+</form>
+</div>
+</html>
